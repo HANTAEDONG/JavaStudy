@@ -9,5 +9,11 @@ public class CreateStringObject {
         // String 객체 생성 2
         String str2 = "안녕하세요.";
         System.out.println(str2);
+
+        String str3 = new String("잘가.");
+        String str4 = str3;
+        str3 = "안녕히가세요";
+        System.out.println(str3);
+        System.out.println(str4);
     }
 }
