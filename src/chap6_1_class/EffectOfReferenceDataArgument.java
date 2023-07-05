@@ -1,5 +1,7 @@
 package chap6_1_class;
 
+/* 참조 자료형 매개변숫값의 변화*/
+
 import java.util.Arrays;
 
 public class EffectOfReferenceDataArgument {
